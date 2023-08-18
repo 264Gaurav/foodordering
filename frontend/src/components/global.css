@@ -1,0 +1,11 @@
+.landing_pagae_background{
+    background-image: url("../asset/bg.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+}
+
+
+.category_icons::-webkit-scrollbar{
+    display: none;
+}

@@ -1,0 +1,3 @@
+Reverse geocoding is the technique of converting geographic coordinates into 
+a human-readable address or location description.
+
